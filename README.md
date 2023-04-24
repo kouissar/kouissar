@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafik
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate on machine learning and AI
 - 📫 How to reach me: Find me on Linkedin @ Rafik Kouissar
 
 <!---
