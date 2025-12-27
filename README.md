@@ -1,4 +1,9 @@
+** Architecting Scalable AI & Performance-Driven Systems
 - 👋 Hi, I’m Rafik
+
+- Developing Agentic Frameworks
+- Optimizing Local LLM Inference
+- AWS Cloud Architecture
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on machine learning and AI
